@@ -7,15 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B93F3942601E332000ABFD5 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B93F3932601E332000ABFD5 /* SettingsViewController.swift */; };
 		4BA821662600E96400256FA3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA821652600E96400256FA3 /* AppDelegate.swift */; };
 		4BA821682600E96400256FA3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA821672600E96400256FA3 /* SceneDelegate.swift */; };
 		4BA8216A2600E96400256FA3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA821692600E96400256FA3 /* ViewController.swift */; };
 		4BA8216D2600E96400256FA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BA8216B2600E96400256FA3 /* Main.storyboard */; };
 		4BA8216F2600E96500256FA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BA8216E2600E96500256FA3 /* Assets.xcassets */; };
 		4BA821722600E96500256FA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BA821702600E96500256FA3 /* LaunchScreen.storyboard */; };
+		4BA8217B2600F44400256FA3 /* TemperatureCalculating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA8217A2600F44400256FA3 /* TemperatureCalculating.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B93F3932601E332000ABFD5 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		4BA821622600E96400256FA3 /* TemperatureConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TemperatureConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BA821652600E96400256FA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4BA821672600E96400256FA3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +27,7 @@
 		4BA8216E2600E96500256FA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BA821712600E96500256FA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4BA821732600E96500256FA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BA8217A2600F44400256FA3 /* TemperatureCalculating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureCalculating.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				4BA8216E2600E96500256FA3 /* Assets.xcassets */,
 				4BA821702600E96500256FA3 /* LaunchScreen.storyboard */,
 				4BA821732600E96500256FA3 /* Info.plist */,
+				4BA8217A2600F44400256FA3 /* TemperatureCalculating.swift */,
+				4B93F3932601E332000ABFD5 /* SettingsViewController.swift */,
 			);
 			path = TemperatureConverter;
 			sourceTree = "<group>";
@@ -137,8 +143,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BA8217B2600F44400256FA3 /* TemperatureCalculating.swift in Sources */,
 				4BA8216A2600E96400256FA3 /* ViewController.swift in Sources */,
 				4BA821662600E96400256FA3 /* AppDelegate.swift in Sources */,
+				4B93F3942601E332000ABFD5 /* SettingsViewController.swift in Sources */,
 				4BA821682600E96400256FA3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

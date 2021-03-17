@@ -1,0 +1,27 @@
+
+/* Class = "UISegmentedControl"; 4nD-Sj-O5L.segmentTitles[0] = "Celsius"; ObjectID = "4nD-Sj-O5L"; */
+"4nD-Sj-O5L.segmentTitles[0]" = "Celsius";
+
+/* Class = "UISegmentedControl"; 4nD-Sj-O5L.segmentTitles[1] = "Farenheit"; ObjectID = "4nD-Sj-O5L"; */
+"4nD-Sj-O5L.segmentTitles[1]" = "Farenheit";
+
+/* Class = "UISegmentedControl"; 4nD-Sj-O5L.segmentTitles[2] = "Kelvin"; ObjectID = "4nD-Sj-O5L"; */
+"4nD-Sj-O5L.segmentTitles[2]" = "Kelvin";
+
+/* Class = "UISegmentedControl"; FCZ-AA-D7W.segmentTitles[0] = "Celsius"; ObjectID = "FCZ-AA-D7W"; */
+"FCZ-AA-D7W.segmentTitles[0]" = "Celsius";
+
+/* Class = "UISegmentedControl"; FCZ-AA-D7W.segmentTitles[1] = "Farenheit"; ObjectID = "FCZ-AA-D7W"; */
+"FCZ-AA-D7W.segmentTitles[1]" = "Farenheit";
+
+/* Class = "UISegmentedControl"; FCZ-AA-D7W.segmentTitles[2] = "Kelvin"; ObjectID = "FCZ-AA-D7W"; */
+"FCZ-AA-D7W.segmentTitles[2]" = "Kelvin";
+
+/* Class = "UINavigationItem"; title = "Калькулятор"; ObjectID = "Te4-Yk-WCt"; */
+"Te4-Yk-WCt.title" = "Калькулятор";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "snz-ev-HMS"; */
+"snz-ev-HMS.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Настройки"; ObjectID = "vfT-H6-htn"; */
+"vfT-H6-htn.title" = "Настройки";
